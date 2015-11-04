@@ -10,3 +10,7 @@ Commit #3
 Good Commit #1
 
 ...and a Bad Commit
+
+Another Good commit
+
+... another bad commit
