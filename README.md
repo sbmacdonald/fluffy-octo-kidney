@@ -14,3 +14,5 @@ Good Commit #1
 Another Good commit
 
 ... another bad commit
+
+and finally undo the bad commit
