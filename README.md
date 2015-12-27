@@ -16,3 +16,5 @@ Another Good commit
 ... another bad commit
 
 and finally undo the bad commit
+
+Adding newfile to master
